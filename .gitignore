@@ -1,0 +1,53 @@
+# ========================
+# Uploaded User Files
+# ========================
+uploads/*
+papers/*
+!uploads/.gitkeep
+!papers/.gitkeep
+
+# ========================
+# Guide / Documentation
+# ========================
+Guide/
+
+# ========================
+# Sensitive Configuration
+# ========================
+db_connect.php
+.env
+.env.*
+config.php
+
+# ========================
+# PHP
+# ========================
+*.log
+error_log
+*.cache
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ========================
+# IDE & Editor Files
+# ========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+*.swp
+*.swo
+
+# ========================
+# XAMPP / Apache
+# ========================
+.htpasswd
