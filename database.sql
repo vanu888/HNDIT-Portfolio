@@ -94,4 +94,4 @@ INSERT INTO users (username, password, role, name) VALUES
 ('rep', '$2y$10$ufgv75QNrs4fDaUSHZcK1u0KWUtFVLU5OBEs9brTcCwDIUs5KjZyS', 'rep', 'Batch Rep 2025');
 
 INSERT INTO students (index_number, full_name, batch_number) VALUES 
-('kan/it/2021/f/001', 'Jhon Doe', 2324);
+('kan/it/2021/f/001', 'John Doe', 2324);

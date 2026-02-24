@@ -44,8 +44,8 @@ hndit-portfolio/
 ├── footer.php         # Footer, global JS (lightbox/gallery)
 ├── database.sql       # Full schema + seed data
 ├── uploads/           # User-uploaded post images and videos (auto-created)
-├── papers/            # Uploaded library PDF files (auto-created)
-└── Guide/             # Project documentation PDFs
+└── papers/            # Uploaded library PDF files (auto-created)
+
 ```
 
 ---
@@ -61,7 +61,7 @@ hndit-portfolio/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/hndit-portfolio.git
+git clone https://github.com/vanu888/hndit-portfolio.git
 ```
 Place the folder inside your web root (e.g. `C:/xampp/htdocs/`).
 
@@ -155,8 +155,6 @@ kan/it/2024/f/001,John Doe,2024
 kan/it/2024/f/002,Jane Smith,2024
 ```
 
-A sample guide is available in the `Guide/` folder.
-
 ---
 
 ## Security Notes
@@ -180,5 +178,5 @@ A sample guide is available in the `Guide/` folder.
 
 ## License
 
-All rights reserved © 2026 HNDIT Department.  
-This project is intended for internal academic and institutional use only.
+This project is licensed under the [MIT License](LICENSE).  
+Copyright (c) 2026 Vihanga Anuththara
