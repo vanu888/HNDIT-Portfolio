@@ -176,7 +176,6 @@ kan/it/2024/f/002,Jane Smith,2024
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).  
 Copyright (c) 2026 Vihanga Anuththara
+
+---
